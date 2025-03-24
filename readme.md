@@ -29,7 +29,7 @@ Este repositório documenta um estudo prático em Quality Assurance (QA), onde r
 - Scrum → Metodologia Ágil para planejamento e execução dos testes.
 
 <img src="image/jira.png" alt="Jira Logo" height="90">
-<img src="image/Zephyr_Scale_378px.png" alt="Zephyr Scale Logo" height="70">
+<img src="image/zephyrScale.png" alt="Zephyr Scale Logo" height="90">
 
 ---
 
