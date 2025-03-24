@@ -1,6 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Bem-vindo&section=header&reversal=false&textBg=false&animation=fadeIn&descAlign=63&descAlignY=62&descSize=20&desc=Projeto:%20Swag%20Labs%20Shopping&strokeWidth=12&stroke=00002FF00&fontAlign=50&fontSize=70)
 
-#### 🛠 **Estudo de Práticas de QA - Swag Labs**
+### 🛠 **Estudo de Práticas de QA - Swag Labs**
 
 📜 **Descrição do Projeto**
 
